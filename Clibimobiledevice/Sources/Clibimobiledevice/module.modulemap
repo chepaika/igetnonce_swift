@@ -1,0 +1,6 @@
+module Clibimobiledevice [system] {
+  header "/usr/local/opt/libimobiledevice/include/libimobiledevice/libimobiledevice.h"
+  header "/usr/local/opt/libimobiledevice/include/libimobiledevice/lockdown.h"
+  //link "imobiledevice-1.0.6"
+  export *
+}

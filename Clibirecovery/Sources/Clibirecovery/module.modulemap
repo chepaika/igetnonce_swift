@@ -1,0 +1,5 @@
+module Clibirecovery [system] {
+  header "/usr/local/Cellar/libirecovery/1.0.0/include/libirecovery.h"
+  //link "irecovery-1.0.3"
+  export *
+}
