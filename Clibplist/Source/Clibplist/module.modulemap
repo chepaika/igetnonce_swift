@@ -1,0 +1,4 @@
+module Clibplist [system] {
+  header "/usr/local/opt/libplist/include/plist/plist.h"
+  export *
+}
