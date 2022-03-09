@@ -2,7 +2,9 @@
 
 Rework of original [igetnonce](https://github.com/tihmstar/igetnonce) whith a greate thanks for [@tihmstar](https://github.com/tihmstar) on Swift
 
-Project contains all wrappers for C libs, so may be used also as trampoline for another works
+It's my first Swift project created for education purpose and fun))
+
+Project contains all wrappers for required C libs, so may be also used as trampoline for another works
 
 ## Dependencies
 
